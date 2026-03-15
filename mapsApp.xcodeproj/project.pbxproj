@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = G6TB75A77D;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = mapsApp/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "for take the location";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = G6TB75A77D;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = mapsApp/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "for take the location";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
